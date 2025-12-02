@@ -1,0 +1,15 @@
+name: adventofcode2025
+description: A Dart package for solving Advent of Code 2025 challenges.
+version: 1.0.0
+repository: https://github.com/hgamo/adventofcode2025
+
+environment:
+  sdk: ^3.10.1
+
+# Add regular dependencies here.
+dependencies:
+  path: ^1.9.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
